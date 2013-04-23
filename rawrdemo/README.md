@@ -1,7 +1,7 @@
-dojo-rawr-boilerplate
+Rawr demo
 ========================
 
-A boilerplate for creating RPC/Websocket applications using Dojo, Rawr, and Engine.io
+A demo of using Rawr
 
 ## Dependencies
 
@@ -13,8 +13,5 @@ and
 
 ## Start
 
-`npm start`
-
-or
 
 `node index`
